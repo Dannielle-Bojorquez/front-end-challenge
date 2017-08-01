@@ -34,6 +34,12 @@
 		<header>
 
 		</header>
+		<div class="jumbotron jumbotron-fluid">
+			<div class="container">
+				<h1 class="display-3">Happy Little Challenge</h1>
+				<p class="lead">There are no mistakes, just happy accidents.</p>
+			</div>
+		</div>
 		<!-- begin grid layout-->
 		<div class="container">
 			<div class="row">
