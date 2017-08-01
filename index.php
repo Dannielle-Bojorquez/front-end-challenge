@@ -32,59 +32,7 @@
 	</head>
 	<body>
 		<header>
-			<nav class="navbar navbar-default">
-				<div class="container">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand" href="#">Bootstrap Sandbox</a>
-					</div>
 
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="main-nav">
-						<ul class="nav navbar-nav">
-							<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
-							<li><a href="#">Link</a></li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="#">Action</a></li>
-									<li><a href="#">Another action</a></li>
-									<li><a href="#">Something else here</a></li>
-									<li role="separator" class="divider"></li>
-									<li><a href="#">Separated link</a></li>
-									<li role="separator" class="divider"></li>
-									<li><a href="#">One more separated link</a></li>
-								</ul>
-							</li>
-						</ul>
-						<form class="navbar-form navbar-left">
-							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Search">
-							</div>
-							<button type="submit" class="btn btn-default">Submit</button>
-						</form>
-						<ul class="nav navbar-nav navbar-right">
-							<li><a href="#">Link</a></li>
-							<li class="dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-								<ul class="dropdown-menu">
-									<li><a href="#">Action</a></li>
-									<li><a href="#">Another action</a></li>
-									<li><a href="#">Something else here</a></li>
-									<li role="separator" class="divider"></li>
-									<li><a href="#">Separated link</a></li>
-								</ul>
-							</li>
-						</ul>
-					</div><!-- /.navbar-collapse -->
-				</div><!-- /.container-fluid -->
-			</nav>
 		</header>
 		<!-- begin grid layout-->
 		<div class="container">
@@ -113,44 +61,13 @@
 					</p>
 				</div><!--closes /.col-md-12-->
 			</div><!--closes /.row-->
-			<div class="col-md-4">
-				<h2>Column 4</h2>
-				<p>
-					I have reset the sensors to scan for frequencies outside the usual range. By emitting harmonic vibrations to shatter the lattices. We will monitor and adjust the frequency of the resonators. He has this ability of instantly interpreting and extrapolating any verbal communication he hears. It may be due to the envelope over the structure, causing hydrogen-carbon helix patterns throughout. I'm comparing the molecular integrity of that bubble against our phasers.
-				</p>
-			</div>
-			<div class="col-md-4">
-				<h2>Column 5</h2>
-				<p>
-					Deflector power at maximum. Energy discharge in six seconds. Warp reactor core primary coolant failure. Fluctuate phaser resonance frequencies. Resistance is futile. Recommend we adjust shield harmonics to the upper EM band when proceeding. These appear to be some kind of power-wave-guide conduits which allow them to work collectively as they perform ship functions. Increase deflector modulation to upper frequency band.
-				</p>
-			</div>
-			<div class="col-md-4">
-				<h2>Column 6</h2>
-				<p>
-					Now what are the possibilities of warp drive? Cmdr Riker's nervous system has been invaded by an unknown microorganism. The organisms fuse to the nerve, intertwining at the molecular level. That's why the transporter's biofilters couldn't extract it. The vertex waves show a K-complex corresponding to an REM state. The engineering section's critical. Destruction is imminent. Their robes contain ultritium, highly explosive, virtually undetectable by your transporter.
-				</p>
-			</div>
+
+
+
 
 			<div class="row">
 				<div class="col-md-4">
-					<!--begin form-->
-					<form>
-						<div class="form-group">
-							<label for="txtName">Your Name</label>
-							<input id="txtName" name="txtName" class="form-control" type="text" placeholder="Name">
-						</div>
-						<div class="form-group">
-							<input class="form-control" type="text" placeholder="Email Address">
-						</div>
-						<div class="form-group">
-							<input class="form-control" type="text" placeholder="Subject">
-						</div>
-						<div class="form-group">
-							<textarea class="form-control"cols="30" rows="10"></textarea>
-						</div>
-						<button type="submit" class="btn btn-default">Submit</button>
-					</form>
+
 				</div>
 				<div class="col-md-7 col-md-offset-1"
 			</div>
