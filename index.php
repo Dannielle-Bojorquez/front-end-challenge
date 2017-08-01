@@ -28,7 +28,7 @@
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-		<title>Bootstrap Practice</title>
+		<title>challenge</title>
 	</head>
 	<body>
 		<header>
@@ -39,25 +39,26 @@
 			<div class="row">
 				<div class="col-md-6">
 					<img src="images/paint1.jpg" alt="paint brushes"/>
-					<h2>Column 1</h2>
+					<h2>Happy Column 1</h2>
 					<p>
-						It indicates a synchronic distortion in the areas emanating triolic waves. The cerebellum, the cerebral cortex, the brain stem, the entire nervous system has been depleted of electrochemical energy. Any device like that would produce high levels of triolic waves. These walls have undergone some kind of selective molecular polarization. I haven't determined if our phaser energy can generate a stable field. We could alter the photons with phase discriminators.
+						I want everbody to be happy. That's what it's all about. See. We take the corner of the brush and let it play back-and-forth. Once you learn the technique, ohhh! Turn you loose on the world; you become a tiger. This is where you take out all your hostilities and frustrations. It's better than kicking the puppy dog around and all that so. You have to make these big decisions. You have freedom here. The only guide is your heart.
 					</p>
 				</div>
 				<div class="col-md-6">
-					<img src="images/paint2.jpg" alt="painting workbench"
-					<h2>Column 2</h2>
+					<img src="images/paint2.jpg" alt="painting workbench"/>
+					<h2>Happy Column 2</h2>
 					<p>
-						Sensors indicate human life forms 30 meters below the planet's surface. Stellar flares are increasing in magnitude and frequency. Set course for Rhomboid Dronegar 006, warp seven. There's no evidence of an advanced communication network. Total guidance system failure, with less than 24 hours' reserve power. Shield effectiveness has been reduced 12 percent. We have covered the area in a spherical pattern which a ship without warp drive could cross in the given time.
+						Take your time. Speed will come later. We have no limits to our world. We're only limited by our imagination. There is immense joy in just watching - watching all the little creatures in nature. Water's like me. It's laaazyÂ ... Boy, it always looks for the easiest way to do things We don't have to be committed. We are just playing here.
 					</p>
 				</div><!--closes /.col-md-6-->
 			</div><!--closes /.row-->
 
 			<div class="row">
 				<div class="col-md-12">
-					<h2>Column 3</h2>
+					<img src="images/paint3.jpg" alt="landscape painting"/>
+					<h2>Happy little column 3</h2>
 					<p>
-						Exceeding reaction chamber thermal limit. We have begun power-supply calibration. Force fields have been established on all turbo lifts and crawlways. Computer, run a level-two diagnostic on warp-drive systems. Antimatter containment positive. Warp drive within normal parameters. I read an ion trail characteristic of a freighter escape pod. The bomb had a molecular-decay detonator. Detecting some unusual fluctuations in subspace frequencies.
+						Happy painting, God bless. This is your world, whatever makes you happy you can put in it. Go crazy. You can create the world you want to see and be a part of. You have that power. You don't have to be crazy to do this but it does help. Talk to trees, look at the birds. Whatever it takes.
 					</p>
 				</div><!--closes /.col-md-12-->
 			</div><!--closes /.row-->
